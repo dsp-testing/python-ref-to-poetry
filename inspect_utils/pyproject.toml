@@ -6,5 +6,5 @@ description = "utils for inspect."
 authors = ["Hariharan Thavachelvam <thavaahariharangit@github.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.7"
-requests = "^2.25.1"
+python = "^3.5"
+requests = "^2.0.0"
