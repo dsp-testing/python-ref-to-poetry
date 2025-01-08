@@ -1,12 +1,6 @@
 version: 2
 updates:
   - package-ecosystem: "pip"
-    directories:
-      - "/"
-      - "/inspect_utils"
+    directory: "/"
     schedule:
       interval: "weekly"
-  # - package-ecosystem: "poetry"
-  #   directory: "/pyproject"
-  #   schedule:
-  #     interval: "weekly"
