@@ -1,0 +1,11 @@
+[project]
+name = "inspect_utils"
+version = "0.1.0"
+description = "utils for inspect."
+homepage = "https://github.com/dsp-testing/inspect_utils"
+repository= "https://github.com/dsp-testing/inspect_utils"
+authors = ["Hariharan Thavachelvam <thavaahariharangit@github.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.5"
+requests = "^2.0.0"
