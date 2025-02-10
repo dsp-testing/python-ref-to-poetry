@@ -5,5 +5,5 @@ opencv-python~=4.8.1
 tensorflow~=2.14.0
 shapely~=2.0.2
 xmltodict~=0.13.0
-mediapipe>=0.8.10.0,<0.10.11.0
+mediapipe>=0.8.10.0,<0.10.22.0
 ./inspect_utils
